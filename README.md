@@ -3,7 +3,7 @@
 My name is Ying Li and I'm a data engineer with a background in statistics and computational genetics. I'm currently living in the Bay Area, and working at SymphonyRM. 
 
 ## Portfolio & Blog 
-If you like to see my portfolio, you can navigate to my website at [yingli.dev](https://www.yingli.dev/) or my blog at [yingli.dev/blog](https://www.yingli.dev/blog). 
+If you like to see my portfolio, you can navigate to my website at [yingli.dev](https://yingli.dev/) or my blog at [yingli.dev/blog](https://yingli.dev/blog). 
 
 ## Technologies & Tools 
 ![](https://img.shields.io/badge/Python-181717?style=flat&logo=python)
