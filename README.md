@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hey there! 👋
+
+My name is Ying Li and I'm a data engineer with a background in statistics and computational genetics. I'm currently living in the Bay Area, and working at SymphonyRM. 
+
+## Portfolio & Blog 
+If you like to see my portfolio, you can navigate to my website at [yingli.dev](https://www.yingli.dev/) or my blog at [yingli.dev/blog](https://www.yingli.dev/blog). 
+
+## Github Stats 
+![Github stats](https://github-readme-stats.vercel.app/api?username=ying-li-python)
 
 <!--
 **ying-li-python/ying-li-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
