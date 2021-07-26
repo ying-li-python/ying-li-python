@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-My name is Ying Li and I'm a data engineer with a background in statistics and computational genetics. I'm currently living in the Bay Area, and working at SymphonyRM. 
+My name is Ying Li and I'm a data engineer with a background in molecular biology, data engineering, and computational genetics. I'm currently living in the Bay Area, and working at Calico. 
 
 ## Portfolio & Blog 
 If you like to see my portfolio, you can navigate to my website at [yingli.dev](https://yingli.dev/) or my blog at [yingli.dev/blog](https://yingli.dev/blog). 
